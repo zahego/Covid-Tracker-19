@@ -57,9 +57,9 @@ start the deploy process
 ```
 $ netlify deploy
 ```
-choose the option to Create and Config a new site
-change the site name to your preference
-set the deploy path to 
+choose the option to Create and Config a new site  
+change the site name to your preference  
+set the deploy path to   
 ```
 $ ./build
 ```
