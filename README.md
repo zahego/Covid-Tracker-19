@@ -4,7 +4,7 @@
 A small website that track the current covid information, including confirmed, recovered and death case, sortable by country.
 
 ## Motivation
-~~I want to alleviate the pandemic situation by providing an informative site about the current sutuation~~ I saw a quick 1h tutorial about a covid tracker app on youtube and jump right into it.
+~~I want to alleviate the pandemic situation by providing an informative site about the current sutuation~~ I saw a quick 1h30min tutorial about a covid tracker app on youtube and jump right into it.
 
 ## Getting Started
 These instructions will guild you through the inital setting up process and 
